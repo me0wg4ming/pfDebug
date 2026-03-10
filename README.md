@@ -7,9 +7,7 @@ Added lots more details, memory cache cleanup check and more information about w
 
 A little tool to monitor the memory usage, peaks and garbage collection.
 
-![widget](widget.jpg)
-
-![analyzer](analyzer.jpg)
+<img width="1294" height="524" alt="grafik" src="https://github.com/user-attachments/assets/65a4358a-e455-4f65-a5a8-be62b31b8708" />
 
 ## Usage
 - Left-Click on the Bar to reset the Peak
